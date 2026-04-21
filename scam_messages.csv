@@ -1,0 +1,33 @@
+text,label
+"URGENT: Your bank account is suspended. Click http://bit.ly/fix-now and send OTP immediately!",scam
+"Congratulations! You have won a free iPhone. Claim now at http://free-iphone.com",scam
+"Your account has been compromised. Verify your password now to avoid suspension.",scam
+"You are selected as a lucky winner. Click here to claim your reward.",scam
+"Final notice: pay your outstanding bill immediately or legal action will be taken.",scam
+"Your parcel is waiting. Pay small fee here http://delivery-fee.com to receive it.",scam
+"Security alert! Unauthorized login detected. Confirm your details now.",scam
+"Your bank requires immediate verification. Submit OTP to continue using services.",scam
+"Act now! Limited time offer. Claim your prize instantly.",scam
+"Dear user, your account will be locked unless you verify your identity now.",scam
+
+"Your parcel delivery failed. Please update your address.",suspicious
+"We noticed unusual activity on your account. Please verify your details.",suspicious
+"Reminder: your payment is pending. Kindly complete it soon.",suspicious
+"Please confirm your phone number to continue using the service.",suspicious
+"Your subscription is about to expire. Renew now to avoid interruption.",suspicious
+"We detected login from a new device. Was this you?",suspicious
+"Your account needs attention. Please check your email for details.",suspicious
+"You have a new message waiting. Login to view it.",suspicious
+"Action required: update your account information.",suspicious
+"Please confirm your recent transaction.",suspicious
+
+"Hi, are we still meeting tomorrow at 3pm?",safe
+"Can you send me the notes after class?",safe
+"Let's have lunch together later.",safe
+"Don't forget to bring your book tomorrow.",safe
+"I'll call you when I reach home.",safe
+"Can you help me with this assignment?",safe
+"Happy birthday! Hope you have a great day!",safe
+"See you at the event tonight!",safe
+"Let me know if you're free this weekend.",safe
+"Thanks for your help earlier!",safe
